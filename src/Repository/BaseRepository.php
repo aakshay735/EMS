@@ -1,6 +1,6 @@
 <?php
 
-require_once (__DIR__.'/../Constants/AppConstants.php');
+require_once(__DIR__ . '/../Constants/AppConstants.php');
 
 abstract class BaseRepository
 {
