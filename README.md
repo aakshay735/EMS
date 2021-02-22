@@ -1,6 +1,8 @@
 # EMS - Event Management System
 
 ### Steps to connect to DB
+- update `src/Constants/AppConstants.php` with DB config details as per env.
+
 #### Employee
 ```
 CREATE TABLE employee (
@@ -68,5 +70,4 @@ COMMIT;
 </VirtualHost>
 ```
 - add `127.0.0.1 events.local.com` to `/etc/hosts`
-
 
