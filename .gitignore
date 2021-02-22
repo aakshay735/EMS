@@ -1,0 +1,5 @@
+#phpstrom
+/.idea
+
+#vendor
+/vendor/
